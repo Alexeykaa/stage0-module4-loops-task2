@@ -29,6 +29,6 @@ class MultiplicationTest extends BaseIOTest {
 
         multiplication.printMultiplied(0);
 
-        assertOutEquals("0\n");
+        assertOutEquals("");
     }
 }
